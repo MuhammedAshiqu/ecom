@@ -14,7 +14,7 @@ function Footer() {
                 </span>
                 <div>
                     <h2>CALL US 24/7</h2>
-                    <a href="tel:+918899776655">+91 7994766524</a>
+                    <a href="tel:+917559814382">+91 7994766524</a>
                 </div>
             </div>
             <div className='footer__top__social'>

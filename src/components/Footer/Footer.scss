@@ -1,10 +1,12 @@
 .footer-wrapper {
     background-color: #f4bc16;
+    position:relative;
     
     .footer {
         padding: 0px 30px;
     max-width: 1400px;
     margin: 0 auto;
+    
 
     &__top {
         display: flex;

@@ -1,5 +1,5 @@
 .navbar {
-    max-width: 1400px;
+    max-width: 1500px;
     padding: 0px 30px;
     margin: 0 auto;
     display: flex;
@@ -14,11 +14,12 @@
     list-style: none;
     align-items: center;
     gap: 20px;
-    margin-right: 2em;
+    
 }
 
 .navbar-nav ul li {
     position: relative;
+    cursor: pointer;
 }
 
 .navbar-nav img {
@@ -34,7 +35,7 @@
     position: absolute;
     top: 45px;
     right: 0;
-    background-color: wheat;
+    background-color:#f0be2a;
     padding: 10px;
     border-radius: 0.5em;
 }
